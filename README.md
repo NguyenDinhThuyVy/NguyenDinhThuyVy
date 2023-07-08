@@ -10,7 +10,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://scontent.xx.fbcdn.net/v/t1.15752-9/348912869_197043539908531_8105527168636762923_n.jpg?stp=dst-jpg_s206x206&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=pnp0RwEtYf0AX99AMZl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSAq1m6_c-pcSb4mb3wHoxG56-ECg5GCcsX-pvhDYazGg&oe=64D1026A)https://scontent.xx.fbcdn.net/v/t1.15752-9/348912869_197043539908531_8105527168636762923_n.jpg?stp=dst-jpg_s206x206&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=pnp0RwEtYf0AX99AMZl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSAq1m6_c-pcSb4mb3wHoxG56-ECg5GCcsX-pvhDYazGg&oe=64D1026A" width="512px"/>
+<img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/348912869_197043539908531_8105527168636762923_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=pnp0RwEtYf0AX8C0_Xl&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdTN-nA0QTgOV8rYIuM2CAKY06UBcj9oBa8Or2FoSAY5Rw&oe=64D1026A" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenDinhThuyVy&icon=2&color=11)](https://visitcount.itsvg.in)
